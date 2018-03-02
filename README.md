@@ -1,2 +1,2 @@
-# webdev
-projects created during Steele Web Dev course
+# ColorGame
+user tries to guess the correct color
